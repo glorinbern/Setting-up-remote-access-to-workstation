@@ -20,7 +20,7 @@ Open your terminal and run the following commands to download and install the of
 
 ```bash
 # Download the latest 64-bit TeamViewer package
-wget [https://download.teamviewer.com/download/linux/teamviewer_amd64.deb](https://download.teamviewer.com/download/linux/teamviewer_amd64.deb)
+wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
 # Install the package and resolve dependencies
 sudo apt update
